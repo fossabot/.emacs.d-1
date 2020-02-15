@@ -7,6 +7,8 @@
 This is my new Emacs configuration, after having given up my literate and evil-centric [old setup](https://github.com/leotaku/literate-emacs).
 It uses my own [fi-emacs](https://github.com/leotaku/fi-emacs) to structure its init file in a file-centric and consistent manner.
 
+![Fastiter Emacs Screenshot](screenshot.png)
+
 The custom vi-like keybinding theme centers around [modalka](https://github.com/mrkkrp/modalka) and my own [theist-mode](https://github.com/leotaku/theist-mode).
 The visuals are supported by a customized versions of [doom-themes](https://github.com/leotaku/emacs-doom-themes), [moody](https://github.com/tarsius/moody) and [minions](https://github.com/tarsius/minions).
 Fonts used are [Fira Mono](https://github.com/mozilla/Fira) and [Alegreya Sans](https://github.com/huertatipografica/Alegreya-Sans).
